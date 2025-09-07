@@ -1,3 +1,7 @@
+# IDs:
+# Yechiel Vaknin: 206242471
+# Zohar Zamir: 204646558
+
 import random
 import time
 import datetime
